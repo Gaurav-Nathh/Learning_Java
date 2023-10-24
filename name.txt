@@ -1,1 +1,4 @@
-My name is Gaurav Nath.
+git int
+git add file.txt
+git commit -m "file is modifiled"
+git restore file.txt
