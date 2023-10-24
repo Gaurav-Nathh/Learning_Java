@@ -4,3 +4,5 @@ git commit -m "file is modifiled"
 git restore file.txt
 git remote add origin url
 git push origin master
+git log
+press "q" to quit git log
